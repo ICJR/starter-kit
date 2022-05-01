@@ -1,0 +1,10 @@
+{
+    "author": "ICJR",
+    "dependencies": {},
+    "description": "Browser extension starter kit",
+    "name": "extension",
+    "private": false,
+    "scripts": {},
+    "version": "0.0.0",
+    "devDependencies": {}
+}
